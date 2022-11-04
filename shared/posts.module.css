@@ -1,0 +1,12 @@
+.perfil{
+    border-radius: 50%;
+  }
+
+.gridTwo{
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+
+.bodySized{
+  margin: 1rem
+}
