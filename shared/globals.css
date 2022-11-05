@@ -9,15 +9,15 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  background-color: var(--page-background);
-  color: var(--page-text);
+  background-color: var(--page-background)!important;
+  color: var(--page-text)!important;
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+  color: inherit!important;
+  text-decoration: none!important;
 }
 
 * {
-  box-sizing: border-box;
+  box-sizing: border-box!important;
 }

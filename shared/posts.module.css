@@ -1,12 +1,21 @@
-.perfil{
-    border-radius: 50%;
-  }
-
-.gridTwo{
-  display: grid;
-  grid-template-columns: 1fr 3fr;
+.perfilContainer {
+  margin-left: 3rem;
+  margin-right: 3rem;
 }
 
-.bodySized{
-  margin: 1rem
+.perfil {
+  border-radius: 50%;
+}
+
+.gridTwo {
+  display: flex;
+  grid-template-columns: 1fr 2fr;
+}
+
+.bodySized {
+  margin: 1rem;
+}
+
+.textContainer {
+  margin: 2rem;
 }

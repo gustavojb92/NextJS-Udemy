@@ -10,9 +10,6 @@ type PostList = string[];
 export default function Home({ posts }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
     <>
-      <Head>
-        <title>My first app in next</title>
-      </Head>
       <main>
         <Navigation />
         <Header />
