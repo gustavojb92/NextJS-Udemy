@@ -24,7 +24,7 @@ export default function Hello() {
               />
             </div>
             <div>
-              <h1>O inicio!</h1>
+              <h1 style={{marginTop:"1rem"}}>O inicio!</h1>
               <h6>Publicado dia 05/11/2022</h6>
               <h5>Por Gustavo JB</h5>
             </div>
